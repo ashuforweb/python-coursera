@@ -1,6 +1,6 @@
 #Assignment1 push
 import re
-fopen = open("regex_sum_42.txt")
+fopen = open("regex_sum_307201.txt") #just change the file name to test this
 reString = '[0-9]+'
 numList = []
 for line in fopen:
