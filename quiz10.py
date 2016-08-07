@@ -1,0 +1,4 @@
+import re
+string  = 'From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008'
+answer = '\S+?@\S+'
+print re.findall(answer,string)[0]
