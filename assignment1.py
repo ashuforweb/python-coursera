@@ -1,3 +1,4 @@
+#Assignment 1
 import re
 fopen = open("regex_sum_42.txt")
 reString = '[0-9]+'
