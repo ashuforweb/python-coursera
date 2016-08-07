@@ -1,4 +1,4 @@
-#Assignment1
+#Assignment1 push
 import re
 fopen = open("regex_sum_42.txt")
 reString = '[0-9]+'
